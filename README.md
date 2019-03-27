@@ -1,6 +1,9 @@
 # MagiciteFanPatches
 I decided to take it upon myself to update Magicite, since Sean decided to stop work on it for now.
 
+To install, simply cut and paste the files from the MagicitePatch folder into your Magicite game folder.
+Make sure to overwrite all files when asked!
+
 Magicite 2.1 - 3/27/19
 Several bugfixes, including some to multiplayer including desync and item duplication.
 Enables the Desert Biome.
