@@ -13,4 +13,5 @@ Along with the desert biome, the following are enabled.
 * Palm Trees
 * Desert Towns
 * Desert Music
+
 Chests and ore have been added to the desert biome, with a higher chance of rare loot including goldium and diamonite.
