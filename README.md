@@ -15,3 +15,6 @@ Along with the desert biome, the following are enabled.
 * Desert Music
 
 Chests and ore have been added to the desert biome, with a higher chance of rare loot including goldium and diamonite.
+
+Made with dnSpy and alot of trial/error.
+https://github.com/dnSpy/dnSpy/
